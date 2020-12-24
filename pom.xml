@@ -19,7 +19,7 @@
 		<project.target.version>1.8</project.target.version>
 		<project.encoding>UTF-8</project.encoding>
 
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<dom4j.version>1.6.1</dom4j.version>
 		<jaxen.version>1.1.6</jaxen.version>
 		<log4j.version>1.2.17</log4j.version>
